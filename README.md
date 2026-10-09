@@ -1,6 +1,6 @@
 # LIN1 — Infrastructure réseau sur solutions libres
 
-Scripts d'automatisation de l'infrastructure **LIN1-LABO** réalisée dans le cadre du module LIN1 (CPNV — Technicien ES en Exploitation et Infrastructure).
+Scripts d'automatisation de l'infrastructure **LIN1-LABO** réalisée dans le cadre du module LIN1 (CPNV — Technicien ES en Ingénierie des systèmes).
 
 Auteur : Ethan
 
